@@ -1,4 +1,4 @@
-package com.example.android.criminalintent;
+package com.example.android.criminalintent_3;
 
 import org.junit.Test;
 
